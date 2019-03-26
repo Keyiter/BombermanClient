@@ -1,3 +1,0 @@
-// the configured options and settings for BombermanClient
-#define BombermanClient_VERSION_MAJOR @BombermanClient_VERSION_MAJOR@
-#define BombermanClient_VERSION_MINOR @BombermanClient_VERSION_MINOR@
